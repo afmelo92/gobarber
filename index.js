@@ -1,3 +1,0 @@
-/**
- * teste git gobarber
- */
